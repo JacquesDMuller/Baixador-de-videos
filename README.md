@@ -1,4 +1,4 @@
-# MediaDownloader Pro
+# Baixador-de-videos (MediaDownloader Pro)
 
 Um aplicativo de desktop para baixar vídeos e áudio de plataformas online como YouTube com interface gráfica amigável.
 
@@ -26,4 +26,4 @@ Um aplicativo de desktop para baixar vídeos e áudio de plataformas online como
 
 ## Nota
 
-Para o correto funcionamento da conversão de formatos, é necessário ter o FFmpeg instalado e configurado no PATH do sistema. 
+Para o correto funcionamento da conversão de formatos, é necessário ter o FFmpeg instalado e configurado no PATH do sistema.
